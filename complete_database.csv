@@ -1,0 +1,787 @@
+id,departamento,municipio,year,hombres_rural,hombres_urbano,mujeres_rural,mujeres_urbano
+1,"01 - A H U A C H A P A N","01- Ahuachapán",2007,406,345,837,706
+2,"01 - A H U A C H A P A N","02- Apaneca",2007,59,42,33,42
+3,"01 - A H U A C H A P A N","03- Atiquizaya",2007,97,79,198,155
+4,"01 - A H U A C H A P A N","04- Concepción de Ataco",2007,65,49,89,67
+5,"01 - A H U A C H A P A N","05- El Refugio",2007,57,52,0,1
+6,"01 - A H U A C H A P A N","06- Guaymango",2007,14,22,149,139
+7,"01 - A H U A C H A P A N","07- Jujutla",2007,41,40,202,173
+8,"01 - A H U A C H A P A N","08- San Francisco Menéndez",2007,182,199,321,269
+9,"01 - A H U A C H A P A N","09- San Lorenzo",2007,16,16,51,62
+10,"01 - A H U A C H A P A N","10- San Pedro Puxtla",2007,19,17,76,59
+11,"01 - A H U A C H A P A N","11- Tacuba",2007,110,116,133,146
+12,"01 - A H U A C H A P A N","12- Turín",2007,28,44,63,54
+13,"02 - S A N T A     A N A","01- Santa Ana",2007,2665,2357,59,36
+14,"02 - S A N T A     A N A","02- Candelaria de la Frontera",2007,62,58,124,113
+15,"02 - S A N T A     A N A","03- Coatepeque",2007,88,71,172,160
+16,"02 - S A N T A     A N A","04- Chalchuapa",2007,496,382,229,179
+17,"02 - S A N T A     A N A","05- El Congo",2007,116,132,93,101
+18,"02 - S A N T A     A N A","06- El Porvenir",2007,21,24,43,45
+19,"02 - S A N T A     A N A","07- Masahuat",2007,12,13,12,14
+20,"02 - S A N T A     A N A","08- Metapán",2007,305,273,310,277
+21,"02 - S A N T A     A N A","09- San Antonio Pajonal",2007,16,12,10,6
+22,"02 - S A N T A     A N A","10- San Sebastián Salitrillo",2007,27,29,73,61
+23,"02 - S A N T A     A N A","11- Santa Rosa Guachipilín",2007,12,11,26,32
+24,"02 - S A N T A     A N A","12- Santiago de la Frontera",2007,13,15,20,27
+25,"02 - S A N T A     A N A","13- Texistepeque",2007,29,28,168,132
+26,"03 - S O N S O N A T E","01- Sonsonate",2007,592,589,210,183
+27,"03 - S O N S O N A T E","02- Acajutla",2007,165,186,319,304
+28,"03 - S O N S O N A T E","03- Armenia",2007,284,269,122,124
+29,"03 - S O N S O N A T E","04- Caluco",2007,19,22,74,69
+30,"03 - S O N S O N A T E","05- Cuisnahuat",2007,44,41,73,88
+31,"03 - S O N S O N A T E","06- Izalco",2007,192,185,488,477
+32,"03 - S O N S O N A T E","07- Juayúa",2007,141,145,97,94
+33,"03 - S O N S O N A T E","08- Nahuizalco",2007,108,125,384,387
+34,"03 - S O N S O N A T E","09- Nahulingo",2007,69,61,42,33
+35,"03 - S O N S O N A T E","10- Salcoatitán",2007,63,49,7,3
+36,"03 - S O N S O N A T E","11- San Antonio del Monte",2007,191,158,105,90
+37,"03 - S O N S O N A T E","12- San Julián",2007,39,39,170,160
+38,"03 - S O N S O N A T E","13- Santa Catarina Masahuat",2007,46,27,51,39
+39,"03 - S O N S O N A T E","14- Santa Isabel Ishuatán",2007,10,9,83,89
+40,"03 - S O N S O N A T E","15- Santo Domingo de Guzmán",2007,26,18,58,52
+41,"03 - S O N S O N A T E","16- Sonzacate",2007,250,220,0,0
+42,"04 - CHALATENANGO","01- Chalatenango",2007,208,154,75,61
+43,"04 - CHALATENANGO","02- Agua Caliente",2007,45,40,39,38
+44,"04 - CHALATENANGO","03- Arcatao",2007,7,7,11,3
+45,"04 - CHALATENANGO","04- Azacualpa",2007,6,5,4,1
+46,"04 - CHALATENANGO","05- Cancasque",2007,10,9,7,9
+47,"04 - CHALATENANGO","06- Citalá",2007,25,16,31,35
+48,"04 - CHALATENANGO","07- Comalapa",2007,8,4,18,24
+49,"04 - CHALATENANGO","08- Concepción Quezaltepeque",2007,51,33,12,12
+50,"04 - CHALATENANGO","09- Dulce Nombre de María",2007,23,23,23,16
+51,"04 - CHALATENANGO","10- El Carrizal",2007,6,7,21,9
+52,"04 - CHALATENANGO","11- El Paraíso",2007,44,40,53,52
+53,"04 - CHALATENANGO","12- La Laguna",2007,13,12,23,20
+54,"04 - CHALATENANGO","13- La Palma",2007,54,34,89,95
+55,"04 - CHALATENANGO","14- La Reina",2007,48,45,16,14
+56,"04 - CHALATENANGO","15- Las Flores",2007,11,3,4,3
+57,"04 - CHALATENANGO","16- Las Vueltas",2007,16,7,2,0
+58,"04 - CHALATENANGO","17- Nombre de Jesús",2007,10,9,23,25
+59,"04 - CHALATENANGO","18- Nueva Concepción",2007,108,120,175,154
+60,"04 - CHALATENANGO","19- Nueva Trinidad",2007,3,4,12,8
+61,"04 - CHALATENANGO","20- Ojos de Agua",2007,13,11,11,15
+62,"04 - CHALATENANGO","21- Potonico",2007,10,6,4,2
+63,"04 - CHALATENANGO","22- San Antonio de la Cruz",2007,3,5,6,6
+64,"04 - CHALATENANGO","23- San Antonio los Ranchos",2007,3,7,0,0
+65,"04 - CHALATENANGO","24- San Fernando",2007,4,9,15,13
+66,"04 - CHALATENANGO","25- San Francisco Lempa",2007,7,6,0,0
+67,"04 - CHALATENANGO","26- San Francisco Morazán",2007,6,9,10,5
+68,"04 - CHALATENANGO","27- San Ignacio",2007,12,20,67,65
+69,"04 - CHALATENANGO","28- San Isidro Labrador",2007,3,4,2,1
+70,"04 - CHALATENANGO","29- San Luis del Carmen",2007,5,4,0,4
+71,"04 - CHALATENANGO","30- San Miguel de Mercedes",2007,9,6,9,5
+72,"04 - CHALATENANGO","31- San Rafael",2007,25,14,15,9
+73,"04 - CHALATENANGO","32- Santa Rita",2007,21,13,14,15
+74,"04 - CHALATENANGO","33- Tejutla",2007,31,36,98,90
+75,"05 - L A     L I B E R T A D","01- Santa Tecla",2007,1075,984,255,204
+76,"05 - L A     L I B E R T A D","02- Antiguo Cuscatlán",2007,145,131,0,0
+77,"05 - L A     L I B E R T A D","03- Ciudad Arce",2007,258,250,269,234
+78,"05 - L A     L I B E R T A D","04- Colón",2007,978,844,7,11
+79,"05 - L A     L I B E R T A D","05- Comasagua",2007,53,56,74,92
+80,"05 - L A     L I B E R T A D","06- Chiltiupán",2007,32,28,97,72
+81,"05 - L A     L I B E R T A D","07- Huizúcar",2007,45,31,73,70
+82,"05 - L A     L I B E R T A D","08- Jayaque",2007,97,75,52,47
+83,"05 - L A     L I B E R T A D","09- Jicalapa",2007,41,43,32,32
+84,"05 - L A     L I B E R T A D","10- La Libertad",2007,99,98,176,155
+85,"05 - L A     L I B E R T A D","11- Nuevo Cuscatlán",2007,60,47,0,0
+86,"05 - L A     L I B E R T A D","12- San Juan Opico",2007,241,201,463,433
+87,"05 - L A     L I B E R T A D","13- Quezaltepeque",2007,373,365,27,26
+88,"05 - L A     L I B E R T A D","14- Sacacoyo",2007,52,65,92,83
+89,"05 - L A     L I B E R T A D","15- San José Villanueva",2007,43,33,87,85
+90,"05 - L A     L I B E R T A D","16- San Matías",2007,34,26,39,37
+91,"05 - L A     L I B E R T A D","17- San Pablo Tacachico",2007,62,51,151,140
+92,"05 - L A     L I B E R T A D","18- Talnique",2007,33,30,40,34
+93,"05 - L A     L I B E R T A D","19- Tamanique",2007,31,36,90,88
+94,"05 - L A     L I B E R T A D","20- Teotepeque",2007,31,21,76,82
+95,"05 - L A     L I B E R T A D","21- Tepecoyo",2007,49,39,86,72
+96,"05 - L A     L I B E R T A D","22- Zaragoza",2007,184,161,29,21
+97,"06 - S A N    S A L V A D O R","01- San Salvador",2007,3145,2948,0,0
+98,"06 - S A N    S A L V A D O R","02- Aguilares",2007,226,218,10,13
+99,"06 - S A N    S A L V A D O R","03- Apopa",2007,1252,1219,0,0
+100,"06 - S A N    S A L V A D O R","04- Ayutuxtepeque",2007,277,251,0,0
+101,"06 - S A N    S A L V A D O R","05- Cuscatancingo",2007,671,677,0,0
+102,"06 - S A N    S A L V A D O R","06- Delgado",2007,769,745,27,31
+103,"06 - S A N    S A L V A D O R","07- El Paísnal",2007,43,32,100,90
+104,"06 - S A N    S A L V A D O R","08- Guazapa",2007,208,187,7,3
+105,"06 - S A N    S A L V A D O R","09- Ilopango",2007,935,978,0,0
+106,"06 - S A N    S A L V A D O R","10- Mejicanos",2007,1302,1262,0,0
+107,"06 - S A N    S A L V A D O R","11- Nejapa",2007,194,166,98,99
+108,"06 - S A N    S A L V A D O R","12- Panchimalco",2007,234,211,281,254
+109,"06 - S A N    S A L V A D O R","13- Rosario de Mora",2007,110,89,67,61
+110,"06 - S A N    S A L V A D O R","14- San Marcos",2007,541,544,0,0
+111,"06 - S A N    S A L V A D O R","15- San Martín",2007,615,534,121,130
+112,"06 - S A N    S A L V A D O R","16- Santiago Texacuangos",2007,152,137,37,25
+113,"06 - S A N    S A L V A D O R","17- Santo Tomás",2007,164,163,30,37
+114,"06 - S A N    S A L V A D O R","18- Soyapango",2007,2472,2191,0,0
+115,"06 - S A N    S A L V A D O R","19- Tonacatepeque",2007,584,522,30,42
+116,"07 - C U S C A T L A N","01- Cojutepeque",2007,544,488,79,65
+117,"07 - C U S C A T L A N","02- Candelaría",2007,37,22,70,51
+118,"07 - C U S C A T L A N","03- El Carmen",2007,34,28,96,96
+119,"07 - C U S C A T L A N","04- El Rosario",2007,18,21,34,28
+120,"07 - C U S C A T L A N","05- Monte San Juan",2007,20,14,92,76
+121,"07 - C U S C A T L A N","06- Oratorio de Concepción",2007,18,19,16,7
+122,"07 - C U S C A T L A N","07- San Bartolomé Perulapía",2007,46,47,26,22
+123,"07 - C U S C A T L A N","08- San Cristóbal",2007,14,11,69,58
+124,"07 - C U S C A T L A N","09- San José Guayabal",2007,62,54,69,58
+125,"07 - C U S C A T L A N","10- San Pedro Perulapán",2007,74,58,415,328
+126,"07 - C U S C A T L A N","11- San Rafael Cedros",2007,48,50,108,101
+127,"07 - C U S C A T L A N","12- San Ramón",2007,18,21,30,26
+128,"07 - C U S C A T L A N","13- Santa Cruz Analquito",2007,28,26,2,4
+129,"07 - C U S C A T L A N","14- Santa Cruz Michapa",2007,68,46,46,46
+130,"07 - C U S C A T L A N","15- Suchitoto",2007,95,88,151,143
+131,"07 - C U S C A T L A N","16- Tenancingo",2007,10,13,41,51
+132,"08 - LA PAZ","01- Zacatecoluca",2007,432,355,375,363
+133,"08 - LA PAZ","02- Cuyultitán",2007,29,32,7,15
+134,"08 - LA PAZ","03- El Rosario",2007,65,73,50,43
+135,"08 - LA PAZ","04- Jerusalén",2007,15,12,21,16
+136,"08 - LA PAZ","05- Mercedes la Ceiba",2007,6,5,6,5
+137,"08 - LA PAZ","06- Olocuilta",2007,182,168,108,77
+138,"08 - LA PAZ","07- Paraiso de Osorio",2007,20,15,0,1
+139,"08 - LA PAZ","08- San Antonio Masahuat",2007,19,31,3,2
+140,"08 - LA PAZ","09- San Emigdio",2007,15,11,12,7
+141,"08 - LA PAZ","10- San Francisco Chinameca",2007,35,29,22,10
+142,"08 - LA PAZ","11- San Juan Nonualco",2007,91,62,85,67
+143,"08 - LA PAZ","12- San Juan Talpa",2007,34,37,33,28
+144,"08 - LA PAZ","13- San Juan Tepezontes",2007,16,18,10,9
+145,"08 - LA PAZ","14- San Luis Talpa",2007,139,101,105,84
+146,"08 - LA PAZ","15- San Luis la Herradura",2007,73,86,171,148
+147,"08 - LA PAZ","16- San Miguel Tepezontes",2007,34,48,9,6
+148,"08 - LA PAZ","17- San Pedro Masahuat",2007,79,57,153,142
+149,"08 - LA PAZ","18- San Pedro Nonualco",2007,38,36,65,44
+150,"08 - LA PAZ","19- San Rafael Obrajuelo",2007,80,59,31,26
+151,"08 - LA PAZ","20- Santa María Ostuma",2007,17,16,28,26
+152,"08 - LA PAZ","21- Santiago Nonualco",2007,126,121,282,261
+153,"08 - LA PAZ","22- Tapalhuaca",2007,11,12,14,10
+154,"09 - C A B A Ñ A S","01- Sensuntepeque",2007,257,193,231,248
+155,"09 - C A B A Ñ A S","02- Cinquera",2007,6,7,8,8
+156,"09 - C A B A Ñ A S","03- Dolores",2007,24,19,24,39
+157,"09 - C A B A Ñ A S","04- Guacotecti",2007,18,11,44,34
+158,"09 - C A B A Ñ A S","05- Ilobasco",2007,318,262,462,439
+159,"09 - C A B A Ñ A S","06- Jutiapa",2007,15,14,51,52
+160,"09 - C A B A Ñ A S","07- San Isidro",2007,33,27,57,42
+161,"09 - C A B A Ñ A S","08- Tejutepeque",2007,34,27,23,27
+162,"09 - C A B A Ñ A S","09- Victoria",2007,28,13,103,82
+163,"10 - S A N    V I C E N T E","01- San Vicente",2007,448,388,110,106
+164,"10 - S A N    V I C E N T E","02- Apastepeque",2007,80,63,120,80
+165,"10 - S A N    V I C E N T E","03- Guadalupe",2007,30,34,15,19
+166,"10 - S A N    V I C E N T E","04- San Cayetano Istepeque",2007,27,20,18,5
+167,"10 - S A N    V I C E N T E","05- San Estebán Catarina",2007,32,24,25,24
+168,"10 - S A N    V I C E N T E","06- San Ildefonso",2007,26,20,64,56
+169,"10 - S A N    V I C E N T E","07- San Lorenzo",2007,14,14,22,19
+170,"10 - S A N    V I C E N T E","08- San Sebastián",2007,54,44,66,42
+171,"10 - S A N    V I C E N T E","09- Santa Clara",2007,23,20,28,20
+172,"10 - S A N    V I C E N T E","10- Santo Domingo",2007,40,39,34,34
+173,"10 - S A N    V I C E N T E","11- Tecoluca",2007,108,71,120,114
+174,"10 - S A N    V I C E N T E","12- Tepetitán",2007,28,21,9,9
+175,"10 - S A N    V I C E N T E","13- Verapaz",2007,30,30,45,35
+176,"11 -  U S U L U T A N","01- Usulután",2007,545,513,221,187
+177,"11 -  U S U L U T A N","02- Alegría",2007,29,27,92,81
+178,"11 -  U S U L U T A N","03- Berlín",2007,113,113,118,92
+179,"11 -  U S U L U T A N","04- California",2007,21,17,8,5
+180,"11 -  U S U L U T A N","05- Concepción Batres",2007,35,47,89,65
+181,"11 -  U S U L U T A N","06- El Triunfo",2007,60,44,29,14
+182,"11 -  U S U L U T A N","07- Ereguayquín",2007,36,30,31,29
+183,"11 -  U S U L U T A N","08- Estanzuelas",2007,47,38,50,44
+184,"11 -  U S U L U T A N","09- Jiquilisco",2007,115,109,372,353
+185,"11 -  U S U L U T A N","10- Jucuapa",2007,137,102,75,60
+186,"11 -  U S U L U T A N","11- Jucuarán",2007,30,24,69,61
+187,"11 -  U S U L U T A N","12- Mercedes Umaña",2007,42,45,67,68
+188,"11 -  U S U L U T A N","13- Nueva Granada",2007,20,9,63,38
+189,"11 -  U S U L U T A N","14- Ozatlán",2007,43,34,64,64
+190,"11 -  U S U L U T A N","15- Puerto el Triunfo",2007,94,100,36,51
+191,"11 -  U S U L U T A N","16- San Agustín",2007,25,24,29,21
+192,"11 -  U S U L U T A N","17- San Buenaventura",2007,24,17,19,13
+193,"11 -  U S U L U T A N","18- San Dionisio",2007,24,25,21,25
+194,"11 -  U S U L U T A N","19- San Francisco Javier",2007,14,12,42,31
+195,"11 -  U S U L U T A N","20- Santa Elena",2007,55,68,145,110
+196,"11 -  U S U L U T A N","21- Santa María",2007,76,55,15,9
+197,"11 -  U S U L U T A N","22- Santiago de María",2007,139,137,53,54
+198,"11 -  U S U L U T A N","23- Tecapán",2007,35,30,55,42
+199,"12- SAN MIGUEL","01- San Miguel",2007,2464,2286,61,48
+200,"12- SAN MIGUEL","02- Carolina",2007,28,26,40,37
+201,"12- SAN MIGUEL","03- Ciudad Barrios",2007,174,156,176,169
+202,"12- SAN MIGUEL","04- Comacarán",2007,12,11,28,16
+203,"12- SAN MIGUEL","05- Chapeltique",2007,71,40,108,57
+204,"12- SAN MIGUEL","06- Chinameca",2007,123,119,108,92
+205,"12- SAN MIGUEL","07- Chirilagua",2007,76,63,146,143
+206,"12- SAN MIGUEL","08- El Tránsito",2007,124,79,81,76
+207,"12- SAN MIGUEL","09- Lolotique",2007,57,55,84,93
+208,"12- SAN MIGUEL","10- Moncagua",2007,39,37,199,158
+209,"12- SAN MIGUEL","11- Nueva Guadalupe",2007,56,56,5,6
+210,"12- SAN MIGUEL","12- Nuevo Edén de San Juan",2007,9,9,20,27
+211,"12- SAN MIGUEL","13- Quelepa",2007,33,23,36,35
+212,"12- SAN MIGUEL","14- San Antonio",2007,14,16,52,50
+213,"12- SAN MIGUEL","15- San Gerardo",2007,26,20,42,36
+214,"12- SAN MIGUEL","16- San Jorge",2007,59,48,56,61
+215,"12- SAN MIGUEL","17- San Luis de la Reina",2007,12,16,36,32
+216,"12- SAN MIGUEL","18- San Rafael Oriente",2007,72,87,49,51
+217,"12- SAN MIGUEL","19- Sesori",2007,30,27,78,86
+218,"12- SAN MIGUEL","20- Uluazapa",2007,11,21,19,16
+219,"13- MORAZÁN","01- San Francisco Gotera",2007,201,177,67,74
+220,"13- MORAZÁN","02- Arambala",2007,7,17,54,42
+221,"13- MORAZÁN","03- Cacaopera",2007,17,18,112,109
+222,"13- MORAZÁN","04- Corinto",2007,51,46,145,148
+223,"13- MORAZÁN","05- Chilanga",2007,29,32,76,70
+224,"13- MORAZÁN","06- Delicias de Concepción",2007,30,30,15,20
+225,"13- MORAZÁN","07- El Divisadero",2007,18,20,56,47
+226,"13- MORAZÁN","08- El Rosario",2007,7,3,4,4
+227,"13- MORAZÁN","09- Gualococti",2007,18,18,28,17
+228,"13- MORAZÁN","10- Guatajiagua",2007,61,49,100,95
+229,"13- MORAZÁN","11- Joateca",2007,9,9,28,25
+230,"13- MORAZÁN","12- Jocoaitique",2007,12,19,18,21
+231,"13- MORAZÁN","13- Jocoro",2007,32,34,74,61
+232,"13- MORAZÁN","14- Lolotiquillo",2007,23,25,30,21
+233,"13- MORAZÁN","15- Meanguera",2007,9,4,60,48
+234,"13- MORAZÁN","16- Osicala",2007,24,26,61,64
+235,"13- MORAZÁN","17- Perquín",2007,9,9,56,50
+236,"13- MORAZÁN","18- San Carlos",2007,20,13,26,29
+237,"13- MORAZÁN","19- San Fernando",2007,7,3,14,16
+238,"13- MORAZÁN","20- San Isidro",2007,12,8,7,17
+239,"13- MORAZÁN","21- San Simón",2007,33,24,109,100
+240,"13- MORAZÁN","22- Sensembra",2007,14,14,21,14
+241,"13- MORAZÁN","23- Sociedad",2007,25,14,80,67
+242,"13- MORAZÁN","24- Torola",2007,4,5,18,20
+243,"13- MORAZÁN","25- Yamabal",2007,12,8,40,50
+244,"13- MORAZÁN","26- Yoloaiquín",2007,16,12,18,29
+245,"14- L A    U N I O N","01- La Unión",2007,342,293,189,144
+246,"14- L A    U N I O N","02- Anamorós",2007,38,29,128,118
+247,"14- L A    U N I O N","03- Bolívar",2007,12,11,40,26
+248,"14- L A    U N I O N","04- Concepción de Oriente",2007,26,15,89,87
+249,"14- L A    U N I O N","05- Conchagua",2007,134,82,290,275
+250,"14- L A    U N I O N","06- El Carmen",2007,42,27,133,94
+251,"14- L A    U N I O N","07- El Sauce",2007,16,12,57,50
+252,"14- L A    U N I O N","08- Intipucá",2007,41,38,17,26
+253,"14- L A    U N I O N","09- Lislique",2007,16,16,166,142
+254,"14- L A    U N I O N","10- Meanguera del Golfo",2007,22,18,8,7
+255,"14- L A    U N I O N","11- Nueva Esparta",2007,34,20,80,117
+256,"14- L A    U N I O N","12- Pasaquina",2007,36,38,224,201
+257,"14- L A    U N I O N","13- Polorós",2007,35,27,86,70
+258,"14- L A    U N I O N","14- San Alejo",2007,58,57,123,97
+259,"14- L A    U N I O N","15- San José",2007,17,5,18,14
+260,"14- L A    U N I O N","16- Santa Rosa de Lima",2007,195,215,100,77
+261,"14- L A    U N I O N","17- Yayantique",2007,14,10,27,18
+262,"14- L A    U N I O N","18- Yucuaiquín",2007,24,31,48,39
+300,"01 - A H U A C H A P A N","01- Ahuachapán",2008,239,229,869,809
+301,"01 - A H U A C H A P A N","02- Apaneca",2008,60,39,61,31
+302,"01 - A H U A C H A P A N","03- Atiquizaya",2008,74,71,187,176
+303,"01 - A H U A C H A P A N","04- Concepción de Ataco",2008,64,73,84,66
+304,"01 - A H U A C H A P A N","05- El Refugio",2008,63,75,0,1
+305,"01 - A H U A C H A P A N","06- Guaymango",2008,34,27,185,177
+306,"01 - A H U A C H A P A N","07- Jujutla",2008,34,42,207,178
+307,"01 - A H U A C H A P A N","08- San Francisco Menéndez",2008,171,187,366,329
+308,"01 - A H U A C H A P A N","09- San Lorenzo",2008,24,12,56,64
+309,"01 - A H U A C H A P A N","10- San Pedro Puxtla",2008,28,27,67,81
+310,"01 - A H U A C H A P A N","11- Tacuba",2008,172,147,189,186
+311,"01 - A H U A C H A P A N","12- Turín",2008,46,40,72,52
+312,"02 - S A N T A     A N A","01- Santa Ana",2008,2051,1985,437,381
+313,"02 - S A N T A     A N A","02- Candelaria de la Frontera",2008,66,49,152,112
+314,"02 - S A N T A     A N A","03- Coatepeque",2008,64,64,185,219
+315,"02 - S A N T A     A N A","04- Chalchuapa",2008,463,496,202,195
+316,"02 - S A N T A     A N A","05- El Congo",2008,141,114,118,121
+317,"02 - S A N T A     A N A","06- El Porvenir",2008,18,15,54,32
+318,"02 - S A N T A     A N A","07- Masahuat",2008,7,11,23,24
+319,"02 - S A N T A     A N A","08- Metapán",2008,411,436,197,196
+320,"02 - S A N T A     A N A","09- San Antonio Pajonal",2008,16,15,7,10
+321,"02 - S A N T A     A N A","10- San Sebastián Salitrillo",2008,55,50,54,59
+322,"02 - S A N T A     A N A","11- Santa Rosa Guachipilín",2008,16,1,29,23
+323,"02 - S A N T A     A N A","12- Santiago de la Frontera",2008,13,18,30,20
+324,"02 - S A N T A     A N A","13- Texistepeque",2008,32,31,169,158
+325,"03 - S O N S O N A T E","01- Sonsonate",2008,574,490,237,222
+326,"03 - S O N S O N A T E","02- Acajutla",2008,186,141,412,359
+327,"03 - S O N S O N A T E","03- Armenia",2008,254,204,106,125
+328,"03 - S O N S O N A T E","04- Caluco",2008,22,14,72,87
+329,"03 - S O N S O N A T E","05- Cuisnahuat",2008,25,32,97,95
+330,"03 - S O N S O N A T E","06- Izalco",2008,177,179,556,552
+331,"03 - S O N S O N A T E","07- Juayúa",2008,142,135,85,74
+332,"03 - S O N S O N A T E","08- Nahuizalco",2008,122,125,452,436
+333,"03 - S O N S O N A T E","09- Nahulingo",2008,69,49,56,44
+334,"03 - S O N S O N A T E","10- Salcoatitán",2008,59,63,8,6
+335,"03 - S O N S O N A T E","11- San Antonio del Monte",2008,198,186,116,95
+336,"03 - S O N S O N A T E","12- San Julián",2008,47,38,173,159
+337,"03 - S O N S O N A T E","13- Santa Catarina Masahuat",2008,48,46,53,53
+338,"03 - S O N S O N A T E","14- Santa Isabel Ishuatán",2008,13,20,72,96
+339,"03 - S O N S O N A T E","15- Santo Domingo de Guzmán",2008,18,27,53,50
+340,"03 - S O N S O N A T E","16- Sonzacate",2008,244,233,0,0
+341,"04 - CHALATENANGO","01- Chalatenango",2008,183,169,108,79
+342,"04 - CHALATENANGO","02- Agua Caliente",2008,41,31,51,51
+343,"04 - CHALATENANGO","03- Arcatao",2008,10,5,15,11
+344,"04 - CHALATENANGO","04- Azacualpa",2008,10,5,1,1
+345,"04 - CHALATENANGO","05- Cancasque",2008,13,9,9,14
+346,"04 - CHALATENANGO","06- Citalá",2008,20,19,29,29
+347,"04 - CHALATENANGO","07- Comalapa",2008,10,8,24,22
+348,"04 - CHALATENANGO","08- Concepción Quezaltepeque",2008,37,35,14,7
+349,"04 - CHALATENANGO","09- Dulce Nombre de María",2008,22,21,36,28
+350,"04 - CHALATENANGO","10- El Carrizal",2008,7,2,12,15
+351,"04 - CHALATENANGO","11- El Paraíso",2008,36,25,51,41
+352,"04 - CHALATENANGO","12- La Laguna",2008,14,18,15,17
+353,"04 - CHALATENANGO","13- La Palma",2008,51,48,80,73
+354,"04 - CHALATENANGO","14- La Reina",2008,65,53,12,11
+355,"04 - CHALATENANGO","15- Las Flores",2008,7,8,6,5
+356,"04 - CHALATENANGO","16- Las Vueltas",2008,14,8,0,1
+357,"04 - CHALATENANGO","17- Nombre de Jesús",2008,10,9,21,19
+358,"04 - CHALATENANGO","18- Nueva Concepción",2008,108,105,191,160
+359,"04 - CHALATENANGO","19- Nueva Trinidad",2008,3,6,15,10
+360,"04 - CHALATENANGO","20- Ojos de Agua",2008,5,10,19,16
+361,"04 - CHALATENANGO","21- Potonico",2008,18,6,3,5
+362,"04 - CHALATENANGO","22- San Antonio de la Cruz",2008,6,6,12,15
+363,"04 - CHALATENANGO","23- San Antonio los Ranchos",2008,9,3,1,0
+364,"04 - CHALATENANGO","24- San Fernando",2008,5,9,13,20
+365,"04 - CHALATENANGO","25- San Francisco Lempa",2008,1,3,0,2
+366,"04 - CHALATENANGO","26- San Francisco Morazán",2008,11,11,22,16
+367,"04 - CHALATENANGO","27- San Ignacio",2008,26,17,60,52
+368,"04 - CHALATENANGO","28- San Isidro Labrador",2008,2,1,2,3
+369,"04 - CHALATENANGO","29- San Luis del Carmen",2008,4,1,5,4
+370,"04 - CHALATENANGO","30- San Miguel de Mercedes",2008,13,12,3,8
+371,"04 - CHALATENANGO","31- San Rafael",2008,20,17,11,10
+372,"04 - CHALATENANGO","32- Santa Rita",2008,16,19,20,21
+373,"04 - CHALATENANGO","33- Tejutla",2008,37,28,100,110
+374,"05 - L A     L I B E R T A D","01- Santa Tecla",2008,883,816,95,125
+375,"05 - L A     L I B E R T A D","02- Antiguo Cuscatlán",2008,150,140,0,0
+376,"05 - L A     L I B E R T A D","03- Ciudad Arce",2008,278,240,295,308
+377,"05 - L A     L I B E R T A D","04- Colón",2008,909,898,18,15
+378,"05 - L A     L I B E R T A D","05- Comasagua",2008,57,56,83,72
+379,"05 - L A     L I B E R T A D","06- Chiltiupán",2008,30,19,92,79
+380,"05 - L A     L I B E R T A D","07- Huizúcar",2008,40,34,55,63
+381,"05 - L A     L I B E R T A D","08- Jayaque",2008,121,121,18,20
+382,"05 - L A     L I B E R T A D","09- Jicalapa",2008,33,24,39,34
+383,"05 - L A     L I B E R T A D","10- La Libertad",2008,184,171,265,260
+384,"05 - L A     L I B E R T A D","11- Nuevo Cuscatlán",2008,73,60,0,0
+385,"05 - L A     L I B E R T A D","12- San Juan Opico",2008,224,217,477,425
+386,"05 - L A     L I B E R T A D","13- Quezaltepeque",2008,491,411,38,50
+387,"05 - L A     L I B E R T A D","14- Sacacoyo",2008,45,36,97,93
+388,"05 - L A     L I B E R T A D","15- San José Villanueva",2008,46,45,95,88
+389,"05 - L A     L I B E R T A D","16- San Matías",2008,28,18,55,40
+390,"05 - L A     L I B E R T A D","17- San Pablo Tacachico",2008,60,54,149,172
+391,"05 - L A     L I B E R T A D","18- Talnique",2008,27,30,47,43
+392,"05 - L A     L I B E R T A D","19- Tamanique",2008,41,32,99,92
+393,"05 - L A     L I B E R T A D","20- Teotepeque",2008,25,26,99,77
+394,"05 - L A     L I B E R T A D","21- Tepecoyo",2008,63,44,76,71
+395,"05 - L A     L I B E R T A D","22- Zaragoza",2008,203,181,28,17
+396,"06 - S A N    S A L V A D O R","01- San Salvador",2008,3376,3315,0,0
+397,"06 - S A N    S A L V A D O R","02- Aguilares",2008,193,175,12,7
+398,"06 - S A N    S A L V A D O R","03- Apopa",2008,1236,1105,0,0
+399,"06 - S A N    S A L V A D O R","04- Ayutuxtepeque",2008,261,231,0,0
+400,"06 - S A N    S A L V A D O R","05- Cuscatancingo",2008,573,593,0,0
+401,"06 - S A N    S A L V A D O R","06- Delgado",2008,792,761,16,13
+402,"06 - S A N    S A L V A D O R","07- El Paísnal",2008,22,24,92,101
+403,"06 - S A N    S A L V A D O R","08- Guazapa",2008,239,201,3,4
+404,"06 - S A N    S A L V A D O R","09- Ilopango",2008,905,820,0,0
+405,"06 - S A N    S A L V A D O R","10- Mejicanos",2008,1130,1138,0,0
+406,"06 - S A N    S A L V A D O R","11- Nejapa",2008,105,107,138,133
+407,"06 - S A N    S A L V A D O R","12- Panchimalco",2008,216,155,276,267
+408,"06 - S A N    S A L V A D O R","13- Rosario de Mora",2008,72,96,56,58
+409,"06 - S A N    S A L V A D O R","14- San Marcos",2008,552,527,0,0
+410,"06 - S A N    S A L V A D O R","15- San Martín",2008,583,544,147,149
+411,"06 - S A N    S A L V A D O R","16- Santiago Texacuangos",2008,127,111,52,53
+412,"06 - S A N    S A L V A D O R","17- Santo Tomás",2008,172,177,38,43
+413,"06 - S A N    S A L V A D O R","18- Soyapango",2008,1901,1883,0,0
+414,"06 - S A N    S A L V A D O R","19- Tonacatepeque",2008,601,554,56,51
+415,"07 - C U S C A T L A N","01- Cojutepeque",2008,470,485,64,64
+416,"07 - C U S C A T L A N","02- Candelaría",2008,32,26,46,54
+417,"07 - C U S C A T L A N","03- El Carmen",2008,22,30,120,124
+418,"07 - C U S C A T L A N","04- El Rosario",2008,11,14,27,23
+419,"07 - C U S C A T L A N","05- Monte San Juan",2008,17,17,98,78
+420,"07 - C U S C A T L A N","06- Oratorio de Concepción",2008,26,16,12,8
+421,"07 - C U S C A T L A N","07- San Bartolomé Perulapía",2008,48,51,21,23
+422,"07 - C U S C A T L A N","08- San Cristóbal",2008,12,11,94,82
+423,"07 - C U S C A T L A N","09- San José Guayabal",2008,56,43,58,57
+424,"07 - C U S C A T L A N","10- San Pedro Perulapán",2008,104,88,365,380
+425,"07 - C U S C A T L A N","11- San Rafael Cedros",2008,37,48,98,81
+426,"07 - C U S C A T L A N","12- San Ramón",2008,33,26,36,32
+427,"07 - C U S C A T L A N","13- Santa Cruz Analquito",2008,24,20,0,3
+428,"07 - C U S C A T L A N","14- Santa Cruz Michapa",2008,44,54,54,66
+429,"07 - C U S C A T L A N","15- Suchitoto",2008,67,58,163,158
+430,"07 - C U S C A T L A N","16- Tenancingo",2008,10,6,61,54
+431,"08 - LA PAZ","01- Zacatecoluca",2008,421,421,290,288
+432,"08 - LA PAZ","02- Cuyultitán",2008,32,34,9,17
+433,"08 - LA PAZ","03- El Rosario",2008,90,94,69,51
+434,"08 - LA PAZ","04- Jerusalén",2008,9,7,17,28
+435,"08 - LA PAZ","05- Mercedes la Ceiba",2008,12,7,11,9
+436,"08 - LA PAZ","06- Olocuilta",2008,196,189,114,123
+437,"08 - LA PAZ","07- Paraiso de Osorio",2008,35,11,3,4
+438,"08 - LA PAZ","08- San Antonio Masahuat",2008,29,28,12,12
+439,"08 - LA PAZ","09- San Emigdio",2008,18,17,5,9
+440,"08 - LA PAZ","10- San Francisco Chinameca",2008,53,56,11,13
+441,"08 - LA PAZ","11- San Juan Nonualco",2008,77,78,80,81
+442,"08 - LA PAZ","12- San Juan Talpa",2008,49,43,37,33
+443,"08 - LA PAZ","13- San Juan Tepezontes",2008,26,23,14,11
+444,"08 - LA PAZ","14- San Luis Talpa",2008,143,130,93,94
+445,"08 - LA PAZ","15- San Luis la Herradura",2008,86,80,173,163
+446,"08 - LA PAZ","16- San Miguel Tepezontes",2008,65,51,6,6
+447,"08 - LA PAZ","17- San Pedro Masahuat",2008,89,89,159,159
+448,"08 - LA PAZ","18- San Pedro Nonualco",2008,45,46,53,47
+449,"08 - LA PAZ","19- San Rafael Obrajuelo",2008,92,68,28,20
+450,"08 - LA PAZ","20- Santa María Ostuma",2008,11,20,38,36
+451,"08 - LA PAZ","21- Santiago Nonualco",2008,149,127,292,278
+452,"08 - LA PAZ","22- Tapalhuaca",2008,15,10,16,12
+453,"09 - C A B A Ñ A S","01- Sensuntepeque",2008,207,220,276,264
+454,"09 - C A B A Ñ A S","02- Cinquera",2008,6,4,7,11
+455,"09 - C A B A Ñ A S","03- Dolores",2008,34,25,44,42
+456,"09 - C A B A Ñ A S","04- Guacotecti",2008,12,11,32,54
+457,"09 - C A B A Ñ A S","05- Ilobasco",2008,254,246,525,468
+458,"09 - C A B A Ñ A S","06- Jutiapa",2008,7,12,59,54
+459,"09 - C A B A Ñ A S","07- San Isidro",2008,34,26,39,54
+460,"09 - C A B A Ñ A S","08- Tejutepeque",2008,30,34,36,26
+461,"09 - C A B A Ñ A S","09- Victoria",2008,27,26,102,103
+462,"10 - S A N    V I C E N T E","01- San Vicente",2008,400,387,108,122
+463,"10 - S A N    V I C E N T E","02- Apastepeque",2008,71,82,119,117
+464,"10 - S A N    V I C E N T E","03- Guadalupe",2008,38,37,22,24
+465,"10 - S A N    V I C E N T E","04- San Cayetano Istepeque",2008,21,18,17,14
+466,"10 - S A N    V I C E N T E","05- San Estebán Catarina",2008,21,30,18,28
+467,"10 - S A N    V I C E N T E","06- San Ildefonso",2008,21,16,50,37
+468,"10 - S A N    V I C E N T E","07- San Lorenzo",2008,23,17,26,24
+469,"10 - S A N    V I C E N T E","08- San Sebastián",2008,56,53,56,84
+470,"10 - S A N    V I C E N T E","09- Santa Clara",2008,22,15,42,34
+471,"10 - S A N    V I C E N T E","10- Santo Domingo",2008,46,40,26,37
+472,"10 - S A N    V I C E N T E","11- Tecoluca",2008,115,87,150,138
+473,"10 - S A N    V I C E N T E","12- Tepetitán",2008,21,16,6,5
+474,"10 - S A N    V I C E N T E","13- Verapaz",2008,32,17,35,32
+475,"11 -  U S U L U T A N","01- Usulután",2008,540,518,187,157
+476,"11 -  U S U L U T A N","02- Alegría",2008,18,18,87,84
+477,"11 -  U S U L U T A N","03- Berlín",2008,98,111,100,89
+478,"11 -  U S U L U T A N","04- California",2008,14,17,13,8
+479,"11 -  U S U L U T A N","05- Concepción Batres",2008,44,44,76,97
+480,"11 -  U S U L U T A N","06- El Triunfo",2008,43,50,32,16
+481,"11 -  U S U L U T A N","07- Ereguayquín",2008,28,27,47,37
+482,"11 -  U S U L U T A N","08- Estanzuelas",2008,40,37,52,46
+483,"11 -  U S U L U T A N","09- Jiquilisco",2008,109,103,404,354
+484,"11 -  U S U L U T A N","10- Jucuapa",2008,101,109,83,79
+485,"11 -  U S U L U T A N","11- Jucuarán",2008,48,50,56,58
+486,"11 -  U S U L U T A N","12- Mercedes Umaña",2008,38,38,87,65
+487,"11 -  U S U L U T A N","13- Nueva Granada",2008,21,18,54,46
+488,"11 -  U S U L U T A N","14- Ozatlán",2008,60,57,62,51
+489,"11 -  U S U L U T A N","15- Puerto el Triunfo",2008,118,97,43,33
+490,"11 -  U S U L U T A N","16- San Agustín",2008,25,22,28,31
+491,"11 -  U S U L U T A N","17- San Buenaventura",2008,28,21,31,30
+492,"11 -  U S U L U T A N","18- San Dionisio",2008,34,31,21,24
+493,"11 -  U S U L U T A N","19- San Francisco Javier",2008,15,20,41,33
+494,"11 -  U S U L U T A N","20- Santa Elena",2008,56,75,130,118
+495,"11 -  U S U L U T A N","21- Santa María",2008,78,66,22,13
+496,"11 -  U S U L U T A N","22- Santiago de María",2008,141,136,40,37
+497,"11 -  U S U L U T A N","23- Tecapán",2008,35,29,47,48
+498,"12- SAN MIGUEL","01- San Miguel",2008,2397,2343,35,43
+499,"12- SAN MIGUEL","02- Carolina",2008,17,17,64,40
+500,"12- SAN MIGUEL","03- Ciudad Barrios",2008,130,131,171,175
+501,"12- SAN MIGUEL","04- Comacarán",2008,9,8,22,18
+502,"12- SAN MIGUEL","05- Chapeltique",2008,44,40,95,92
+503,"12- SAN MIGUEL","06- Chinameca",2008,107,88,145,143
+504,"12- SAN MIGUEL","07- Chirilagua",2008,98,101,127,128
+505,"12- SAN MIGUEL","08- El Tránsito",2008,101,112,85,80
+506,"12- SAN MIGUEL","09- Lolotique",2008,57,39,100,88
+507,"12- SAN MIGUEL","10- Moncagua",2008,34,38,200,195
+508,"12- SAN MIGUEL","11- Nueva Guadalupe",2008,48,68,1,0
+509,"12- SAN MIGUEL","12- Nuevo Edén de San Juan",2008,10,12,35,31
+510,"12- SAN MIGUEL","13- Quelepa",2008,29,23,51,45
+511,"12- SAN MIGUEL","14- San Antonio",2008,9,4,50,50
+512,"12- SAN MIGUEL","15- San Gerardo",2008,24,19,36,35
+513,"12- SAN MIGUEL","16- San Jorge",2008,48,45,49,54
+514,"12- SAN MIGUEL","17- San Luis de la Reina",2008,11,13,30,38
+515,"12- SAN MIGUEL","18- San Rafael Oriente",2008,77,86,68,59
+516,"12- SAN MIGUEL","19- Sesori",2008,21,15,79,76
+517,"12- SAN MIGUEL","20- Uluazapa",2008,11,20,21,19
+518,"13- MORAZÁN","01- San Francisco Gotera",2008,209,139,73,52
+519,"13- MORAZÁN","02- Arambala",2008,11,7,51,48
+520,"13- MORAZÁN","03- Cacaopera",2008,9,16,82,84
+521,"13- MORAZÁN","04- Corinto",2008,55,51,159,162
+522,"13- MORAZÁN","05- Chilanga",2008,60,43,62,59
+523,"13- MORAZÁN","06- Delicias de Concepción",2008,27,35,15,15
+524,"13- MORAZÁN","07- El Divisadero",2008,24,27,57,50
+525,"13- MORAZÁN","08- El Rosario",2008,9,3,6,7
+526,"13- MORAZÁN","09- Gualococti",2008,10,10,27,30
+527,"13- MORAZÁN","10- Guatajiagua",2008,39,50,91,92
+528,"13- MORAZÁN","11- Joateca",2008,7,10,40,23
+529,"13- MORAZÁN","12- Jocoaitique",2008,31,20,16,10
+530,"13- MORAZÁN","13- Jocoro",2008,32,31,72,60
+531,"13- MORAZÁN","14- Lolotiquillo",2008,22,16,31,28
+532,"13- MORAZÁN","15- Meanguera",2008,11,9,49,47
+533,"13- MORAZÁN","16- Osicala",2008,15,25,72,67
+534,"13- MORAZÁN","17- Perquín",2008,13,9,49,66
+535,"13- MORAZÁN","18- San Carlos",2008,12,10,36,43
+536,"13- MORAZÁN","19- San Fernando",2008,10,3,10,11
+537,"13- MORAZÁN","20- San Isidro",2008,11,4,22,14
+538,"13- MORAZÁN","21- San Simón",2008,28,21,92,93
+539,"13- MORAZÁN","22- Sensembra",2008,8,16,9,14
+540,"13- MORAZÁN","23- Sociedad",2008,32,23,80,82
+541,"13- MORAZÁN","24- Torola",2008,5,4,29,20
+542,"13- MORAZÁN","25- Yamabal",2008,10,12,34,38
+543,"13- MORAZÁN","26- Yoloaiquín",2008,12,15,18,16
+544,"14- L A    U N I O N","01- La Unión",2008,326,291,130,146
+545,"14- L A    U N I O N","02- Anamorós",2008,27,25,119,107
+546,"14- L A    U N I O N","03- Bolívar",2008,15,12,29,35
+547,"14- L A    U N I O N","04- Concepción de Oriente",2008,23,13,96,88
+548,"14- L A    U N I O N","05- Conchagua",2008,149,147,283,244
+549,"14- L A    U N I O N","06- El Carmen",2008,26,46,114,124
+550,"14- L A    U N I O N","07- El Sauce",2008,23,14,49,60
+551,"14- L A    U N I O N","08- Intipucá",2008,62,47,25,34
+552,"14- L A    U N I O N","09- Lislique",2008,3,11,145,147
+553,"14- L A    U N I O N","10- Meanguera del Golfo",2008,18,20,5,9
+554,"14- L A    U N I O N","11- Nueva Esparta",2008,30,26,105,93
+555,"14- L A    U N I O N","12- Pasaquina",2008,65,61,185,182
+556,"14- L A    U N I O N","13- Polorós",2008,44,35,77,75
+557,"14- L A    U N I O N","14- San Alejo",2008,92,90,142,103
+558,"14- L A    U N I O N","15- San José",2008,10,16,15,17
+559,"14- L A    U N I O N","16- Santa Rosa de Lima",2008,217,210,75,91
+560,"14- L A    U N I O N","17- Yayantique",2008,10,6,35,38
+561,"14- L A    U N I O N","18- Yucuaiquín",2008,28,30,44,40
+600,"01 - A H U A C H A P A N","01- Ahuachapán",2009,280,259,739,711
+601,"01 - A H U A C H A P A N","02- Apaneca",2009,54,34,46,36
+602,"01 - A H U A C H A P A N","03- Atiquizaya",2009,83,84,169,162
+603,"01 - A H U A C H A P A N","04- Concepción de Ataco",2009,63,62,68,57
+604,"01 - A H U A C H A P A N","05- El Refugio",2009,82,84,1,2
+605,"01 - A H U A C H A P A N","06- Guaymango",2009,40,36,169,160
+606,"01 - A H U A C H A P A N","07- Jujutla",2009,79,64,170,166
+607,"01 - A H U A C H A P A N","08- San Francisco Menéndez",2009,250,212,286,275
+608,"01 - A H U A C H A P A N","09- San Lorenzo",2009,16,27,79,64
+609,"01 - A H U A C H A P A N","10- San Pedro Puxtla",2009,30,29,48,55
+610,"01 - A H U A C H A P A N","11- Tacuba",2009,100,115,316,259
+611,"01 - A H U A C H A P A N","12- Turín",2009,46,40,58,52
+612,"02 - S A N T A     A N A","01- Santa Ana",2009,1726,1498,593,509
+613,"02 - S A N T A     A N A","02- Candelaria de la Frontera",2009,102,66,152,133
+614,"02 - S A N T A     A N A","03- Coatepeque",2009,103,103,178,183
+615,"02 - S A N T A     A N A","04- Chalchuapa",2009,497,408,240,233
+616,"02 - S A N T A     A N A","05- El Congo",2009,155,150,107,108
+617,"02 - S A N T A     A N A","06- El Porvenir",2009,26,37,50,44
+618,"02 - S A N T A     A N A","07- Masahuat",2009,16,9,18,14
+619,"02 - S A N T A     A N A","08- Metapán",2009,462,406,164,173
+620,"02 - S A N T A     A N A","09- San Antonio Pajonal",2009,21,20,11,11
+621,"02 - S A N T A     A N A","10- San Sebastián Salitrillo",2009,84,70,57,75
+622,"02 - S A N T A     A N A","11- Santa Rosa Guachipilín",2009,18,7,19,26
+623,"02 - S A N T A     A N A","12- Santiago de la Frontera",2009,20,26,28,32
+624,"02 - S A N T A     A N A","13- Texistepeque",2009,46,39,183,148
+625,"03 - S O N S O N A T E","01- Sonsonate",2009,713,616,151,143
+626,"03 - S O N S O N A T E","02- Acajutla",2009,253,209,287,268
+627,"03 - S O N S O N A T E","03- Armenia",2009,234,220,75,75
+628,"03 - S O N S O N A T E","04- Caluco",2009,39,39,63,65
+629,"03 - S O N S O N A T E","05- Cuisnahuat",2009,44,39,76,61
+630,"03 - S O N S O N A T E","06- Izalco",2009,221,194,509,481
+631,"03 - S O N S O N A T E","07- Juayúa",2009,154,145,81,77
+632,"03 - S O N S O N A T E","08- Nahuizalco",2009,205,172,336,316
+633,"03 - S O N S O N A T E","09- Nahulingo",2009,75,57,28,35
+634,"03 - S O N S O N A T E","10- Salcoatitán",2009,48,36,3,6
+635,"03 - S O N S O N A T E","11- San Antonio del Monte",2009,179,175,79,63
+636,"03 - S O N S O N A T E","12- San Julián",2009,70,72,143,137
+637,"03 - S O N S O N A T E","13- Santa Catarina Masahuat",2009,71,56,40,27
+638,"03 - S O N S O N A T E","14- Santa Isabel Ishuatán",2009,31,20,73,68
+639,"03 - S O N S O N A T E","15- Santo Domingo de Guzmán",2009,26,33,37,25
+640,"03 - S O N S O N A T E","16- Sonzacate",2009,208,179,0,0
+641,"04 - CHALATENANGO","01- Chalatenango",2009,203,173,73,43
+642,"04 - CHALATENANGO","02- Agua Caliente",2009,37,35,57,43
+643,"04 - CHALATENANGO","03- Arcatao",2009,14,11,15,15
+644,"04 - CHALATENANGO","04- Azacualpa",2009,11,11,3,2
+645,"04 - CHALATENANGO","05- Cancasque",2009,11,8,5,3
+646,"04 - CHALATENANGO","06- Citalá",2009,31,19,26,20
+647,"04 - CHALATENANGO","07- Comalapa",2009,14,6,19,18
+648,"04 - CHALATENANGO","08- Concepción Quezaltepeque",2009,43,40,15,10
+649,"04 - CHALATENANGO","09- Dulce Nombre de María",2009,16,9,19,22
+650,"04 - CHALATENANGO","10- El Carrizal",2009,10,4,21,25
+651,"04 - CHALATENANGO","11- El Paraíso",2009,59,43,40,50
+652,"04 - CHALATENANGO","12- La Laguna",2009,12,15,18,15
+653,"04 - CHALATENANGO","13- La Palma",2009,47,39,89,78
+654,"04 - CHALATENANGO","14- La Reina",2009,62,44,15,15
+655,"04 - CHALATENANGO","15- Las Flores",2009,7,6,6,5
+656,"04 - CHALATENANGO","16- Las Vueltas",2009,7,8,7,1
+657,"04 - CHALATENANGO","17- Nombre de Jesús",2009,10,11,22,24
+658,"04 - CHALATENANGO","18- Nueva Concepción",2009,119,122,227,184
+659,"04 - CHALATENANGO","19- Nueva Trinidad",2009,2,5,9,17
+660,"04 - CHALATENANGO","20- Ojos de Agua",2009,11,5,13,10
+661,"04 - CHALATENANGO","21- Potonico",2009,11,9,7,3
+662,"04 - CHALATENANGO","22- San Antonio de la Cruz",2009,10,5,8,8
+663,"04 - CHALATENANGO","23- San Antonio los Ranchos",2009,11,6,0,0
+664,"04 - CHALATENANGO","24- San Fernando",2009,6,11,18,7
+665,"04 - CHALATENANGO","25- San Francisco Lempa",2009,5,7,0,1
+666,"04 - CHALATENANGO","26- San Francisco Morazán",2009,8,5,22,8
+667,"04 - CHALATENANGO","27- San Ignacio",2009,16,14,64,61
+668,"04 - CHALATENANGO","28- San Isidro Labrador",2009,5,3,2,2
+669,"04 - CHALATENANGO","29- San Luis del Carmen",2009,2,2,8,4
+670,"04 - CHALATENANGO","30- San Miguel de Mercedes",2009,14,8,10,2
+671,"04 - CHALATENANGO","31- San Rafael",2009,10,15,19,13
+672,"04 - CHALATENANGO","32- Santa Rita",2009,23,21,17,14
+673,"04 - CHALATENANGO","33- Tejutla",2009,41,53,98,90
+674,"05 - L A     L I B E R T A D","01- Santa Tecla",2009,879,730,107,101
+675,"05 - L A     L I B E R T A D","02- Antiguo Cuscatlán",2009,139,136,0,0
+676,"05 - L A     L I B E R T A D","03- Ciudad Arce",2009,273,236,303,228
+677,"05 - L A     L I B E R T A D","04- Colón",2009,784,632,13,12
+678,"05 - L A     L I B E R T A D","05- Comasagua",2009,55,49,79,80
+679,"05 - L A     L I B E R T A D","06- Chiltiupán",2009,29,27,85,73
+680,"05 - L A     L I B E R T A D","07- Huizúcar",2009,51,37,67,47
+681,"05 - L A     L I B E R T A D","08- Jayaque",2009,122,116,11,7
+682,"05 - L A     L I B E R T A D","09- Jicalapa",2009,53,51,42,32
+683,"05 - L A     L I B E R T A D","10- La Libertad",2009,203,191,227,244
+684,"05 - L A     L I B E R T A D","11- Nuevo Cuscatlán",2009,79,60,0,0
+685,"05 - L A     L I B E R T A D","12- San Juan Opico",2009,175,174,409,379
+686,"05 - L A     L I B E R T A D","13- Quezaltepeque",2009,446,383,30,21
+687,"05 - L A     L I B E R T A D","14- Sacacoyo",2009,42,38,76,84
+688,"05 - L A     L I B E R T A D","15- San José Villanueva",2009,42,39,94,87
+689,"05 - L A     L I B E R T A D","16- San Matías",2009,27,21,55,34
+690,"05 - L A     L I B E R T A D","17- San Pablo Tacachico",2009,49,46,183,137
+691,"05 - L A     L I B E R T A D","18- Talnique",2009,39,17,55,40
+692,"05 - L A     L I B E R T A D","19- Tamanique",2009,55,42,84,78
+693,"05 - L A     L I B E R T A D","20- Teotepeque",2009,28,27,86,75
+694,"05 - L A     L I B E R T A D","21- Tepecoyo",2009,69,54,53,54
+695,"05 - L A     L I B E R T A D","22- Zaragoza",2009,166,149,19,26
+696,"06 - S A N    S A L V A D O R","01- San Salvador",2009,3313,2944,0,0
+697,"06 - S A N    S A L V A D O R","02- Aguilares",2009,195,149,8,8
+698,"06 - S A N    S A L V A D O R","03- Apopa",2009,1177,1016,0,0
+699,"06 - S A N    S A L V A D O R","04- Ayutuxtepeque",2009,263,227,0,0
+700,"06 - S A N    S A L V A D O R","05- Cuscatancingo",2009,630,576,0,0
+701,"06 - S A N    S A L V A D O R","06- Delgado",2009,741,717,13,13
+702,"06 - S A N    S A L V A D O R","07- El Paísnal",2009,30,26,97,80
+703,"06 - S A N    S A L V A D O R","08- Guazapa",2009,202,150,22,27
+704,"06 - S A N    S A L V A D O R","09- Ilopango",2009,868,729,0,0
+705,"06 - S A N    S A L V A D O R","10- Mejicanos",2009,1109,1020,0,0
+706,"06 - S A N    S A L V A D O R","11- Nejapa",2009,116,113,144,138
+707,"06 - S A N    S A L V A D O R","12- Panchimalco",2009,280,233,212,183
+708,"06 - S A N    S A L V A D O R","13- Rosario de Mora",2009,143,96,53,45
+709,"06 - S A N    S A L V A D O R","14- San Marcos",2009,564,496,0,0
+710,"06 - S A N    S A L V A D O R","15- San Martín",2009,619,492,140,134
+711,"06 - S A N    S A L V A D O R","16- Santiago Texacuangos",2009,132,141,21,21
+712,"06 - S A N    S A L V A D O R","17- Santo Tomás",2009,164,164,23,14
+713,"06 - S A N    S A L V A D O R","18- Soyapango",2009,2134,1844,0,0
+714,"06 - S A N    S A L V A D O R","19- Tonacatepeque",2009,497,431,72,61
+715,"07 - C U S C A T L A N","01- Cojutepeque",2009,599,507,28,22
+716,"07 - C U S C A T L A N","02- Candelaría",2009,41,30,47,52
+717,"07 - C U S C A T L A N","03- El Carmen",2009,38,33,95,110
+718,"07 - C U S C A T L A N","04- El Rosario",2009,15,10,22,24
+719,"07 - C U S C A T L A N","05- Monte San Juan",2009,20,18,75,55
+720,"07 - C U S C A T L A N","06- Oratorio de Concepción",2009,21,18,14,13
+721,"07 - C U S C A T L A N","07- San Bartolomé Perulapía",2009,59,40,28,25
+722,"07 - C U S C A T L A N","08- San Cristóbal",2009,27,17,89,80
+723,"07 - C U S C A T L A N","09- San José Guayabal",2009,30,39,60,41
+724,"07 - C U S C A T L A N","10- San Pedro Perulapán",2009,138,94,383,336
+725,"07 - C U S C A T L A N","11- San Rafael Cedros",2009,61,53,134,104
+726,"07 - C U S C A T L A N","12- San Ramón",2009,26,23,29,20
+727,"07 - C U S C A T L A N","13- Santa Cruz Analquito",2009,24,18,1,4
+728,"07 - C U S C A T L A N","14- Santa Cruz Michapa",2009,59,40,71,46
+729,"07 - C U S C A T L A N","15- Suchitoto",2009,61,45,179,139
+730,"07 - C U S C A T L A N","16- Tenancingo",2009,14,17,59,50
+731,"08 - LA PAZ","01- Zacatecoluca",2009,476,423,247,196
+732,"08 - LA PAZ","02- Cuyultitán",2009,41,42,5,4
+733,"08 - LA PAZ","03- El Rosario",2009,83,71,50,43
+734,"08 - LA PAZ","04- Jerusalén",2009,7,13,11,10
+735,"08 - LA PAZ","05- Mercedes la Ceiba",2009,12,6,6,7
+736,"08 - LA PAZ","06- Olocuilta",2009,185,128,143,85
+737,"08 - LA PAZ","07- Paraiso de Osorio",2009,30,25,1,5
+738,"08 - LA PAZ","08- San Antonio Masahuat",2009,29,24,23,15
+739,"08 - LA PAZ","09- San Emigdio",2009,15,16,9,6
+740,"08 - LA PAZ","10- San Francisco Chinameca",2009,43,42,16,22
+741,"08 - LA PAZ","11- San Juan Nonualco",2009,81,67,87,93
+742,"08 - LA PAZ","12- San Juan Talpa",2009,64,54,33,29
+743,"08 - LA PAZ","13- San Juan Tepezontes",2009,15,17,12,21
+744,"08 - LA PAZ","14- San Luis Talpa",2009,154,86,77,84
+745,"08 - LA PAZ","15- San Luis la Herradura",2009,91,73,156,117
+746,"08 - LA PAZ","16- San Miguel Tepezontes",2009,69,46,11,1
+747,"08 - LA PAZ","17- San Pedro Masahuat",2009,77,69,163,136
+748,"08 - LA PAZ","18- San Pedro Nonualco",2009,43,41,39,43
+749,"08 - LA PAZ","19- San Rafael Obrajuelo",2009,74,51,38,38
+750,"08 - LA PAZ","20- Santa María Ostuma",2009,23,19,30,38
+751,"08 - LA PAZ","21- Santiago Nonualco",2009,183,111,304,269
+752,"08 - LA PAZ","22- Tapalhuaca",2009,8,11,16,7
+753,"09 - C A B A Ñ A S","01- Sensuntepeque",2009,245,234,249,242
+754,"09 - C A B A Ñ A S","02- Cinquera",2009,10,13,11,3
+755,"09 - C A B A Ñ A S","03- Dolores",2009,20,24,47,40
+756,"09 - C A B A Ñ A S","04- Guacotecti",2009,17,31,52,33
+757,"09 - C A B A Ñ A S","05- Ilobasco",2009,295,235,500,414
+758,"09 - C A B A Ñ A S","06- Jutiapa",2009,14,15,72,54
+759,"09 - C A B A Ñ A S","07- San Isidro",2009,26,22,62,50
+760,"09 - C A B A Ñ A S","08- Tejutepeque",2009,29,30,33,26
+761,"09 - C A B A Ñ A S","09- Victoria",2009,33,26,108,89
+762,"10 - S A N    V I C E N T E","01- San Vicente",2009,442,352,100,92
+763,"10 - S A N    V I C E N T E","02- Apastepeque",2009,96,92,144,112
+764,"10 - S A N    V I C E N T E","03- Guadalupe",2009,41,30,13,17
+765,"10 - S A N    V I C E N T E","04- San Cayetano Istepeque",2009,22,19,22,17
+766,"10 - S A N    V I C E N T E","05- San Estebán Catarina",2009,29,34,21,18
+767,"10 - S A N    V I C E N T E","06- San Ildefonso",2009,24,23,68,53
+768,"10 - S A N    V I C E N T E","07- San Lorenzo",2009,30,13,33,34
+769,"10 - S A N    V I C E N T E","08- San Sebastián",2009,61,49,67,57
+770,"10 - S A N    V I C E N T E","09- Santa Clara",2009,10,12,42,42
+771,"10 - S A N    V I C E N T E","10- Santo Domingo",2009,46,42,47,38
+772,"10 - S A N    V I C E N T E","11- Tecoluca",2009,110,86,136,126
+773,"10 - S A N    V I C E N T E","12- Tepetitán",2009,27,22,13,12
+774,"10 - S A N    V I C E N T E","13- Verapaz",2009,26,23,49,41
+775,"11 -  U S U L U T A N","01- Usulután",2009,639,509,212,186
+776,"11 -  U S U L U T A N","02- Alegría",2009,23,17,95,74
+777,"11 -  U S U L U T A N","03- Berlín",2009,107,101,96,106
+778,"11 -  U S U L U T A N","04- California",2009,20,19,11,4
+779,"11 -  U S U L U T A N","05- Concepción Batres",2009,45,40,74,42
+780,"11 -  U S U L U T A N","06- El Triunfo",2009,50,38,31,25
+781,"11 -  U S U L U T A N","07- Ereguayquín",2009,39,26,45,39
+782,"11 -  U S U L U T A N","08- Estanzuelas",2009,47,48,49,48
+783,"11 -  U S U L U T A N","09- Jiquilisco",2009,132,99,422,333
+784,"11 -  U S U L U T A N","10- Jucuapa",2009,130,94,80,74
+785,"11 -  U S U L U T A N","11- Jucuarán",2009,35,25,111,84
+786,"11 -  U S U L U T A N","12- Mercedes Umaña",2009,36,29,100,77
+787,"11 -  U S U L U T A N","13- Nueva Granada",2009,18,14,58,54
+788,"11 -  U S U L U T A N","14- Ozatlán",2009,48,44,83,61
+789,"11 -  U S U L U T A N","15- Puerto el Triunfo",2009,123,96,35,25
+790,"11 -  U S U L U T A N","16- San Agustín",2009,20,13,22,21
+791,"11 -  U S U L U T A N","17- San Buenaventura",2009,15,12,22,25
+792,"11 -  U S U L U T A N","18- San Dionisio",2009,35,29,23,15
+793,"11 -  U S U L U T A N","19- San Francisco Javier",2009,15,15,40,44
+794,"11 -  U S U L U T A N","20- Santa Elena",2009,70,75,128,120
+795,"11 -  U S U L U T A N","21- Santa María",2009,95,84,37,34
+796,"11 -  U S U L U T A N","22- Santiago de María",2009,133,125,43,34
+797,"11 -  U S U L U T A N","23- Tecapán",2009,43,33,37,28
+798,"12- SAN MIGUEL","01- San Miguel",2009,2056,1882,226,219
+799,"12- SAN MIGUEL","02- Carolina",2009,23,23,66,47
+800,"12- SAN MIGUEL","03- Ciudad Barrios",2009,180,139,160,134
+801,"12- SAN MIGUEL","04- Comacarán",2009,11,12,25,22
+802,"12- SAN MIGUEL","05- Chapeltique",2009,56,46,112,79
+803,"12- SAN MIGUEL","06- Chinameca",2009,98,80,152,131
+804,"12- SAN MIGUEL","07- Chirilagua",2009,104,80,121,120
+805,"12- SAN MIGUEL","08- El Tránsito",2009,144,130,83,59
+806,"12- SAN MIGUEL","09- Lolotique",2009,58,50,109,98
+807,"12- SAN MIGUEL","10- Moncagua",2009,48,37,214,176
+808,"12- SAN MIGUEL","11- Nueva Guadalupe",2009,77,55,6,4
+809,"12- SAN MIGUEL","12- Nuevo Edén de San Juan",2009,7,7,27,32
+810,"12- SAN MIGUEL","13- Quelepa",2009,40,20,28,30
+811,"12- SAN MIGUEL","14- San Antonio",2009,18,15,34,32
+812,"12- SAN MIGUEL","15- San Gerardo",2009,24,17,28,34
+813,"12- SAN MIGUEL","16- San Jorge",2009,58,41,56,44
+814,"12- SAN MIGUEL","17- San Luis de la Reina",2009,15,12,46,29
+815,"12- SAN MIGUEL","18- San Rafael Oriente",2009,73,68,67,60
+816,"12- SAN MIGUEL","19- Sesori",2009,28,24,94,61
+817,"12- SAN MIGUEL","20- Uluazapa",2009,19,30,1,4
+818,"13- MORAZÁN","01- San Francisco Gotera",2009,219,186,62,59
+819,"13- MORAZÁN","02- Arambala",2009,14,12,40,42
+820,"13- MORAZÁN","03- Cacaopera",2009,25,32,74,51
+821,"13- MORAZÁN","04- Corinto",2009,60,44,166,125
+822,"13- MORAZÁN","05- Chilanga",2009,30,32,63,55
+823,"13- MORAZÁN","06- Delicias de Concepción",2009,34,28,15,20
+824,"13- MORAZÁN","07- El Divisadero",2009,20,32,55,45
+825,"13- MORAZÁN","08- El Rosario",2009,10,9,9,3
+826,"13- MORAZÁN","09- Gualococti",2009,21,13,28,15
+827,"13- MORAZÁN","10- Guatajiagua",2009,64,50,82,85
+828,"13- MORAZÁN","11- Joateca",2009,20,11,41,24
+829,"13- MORAZÁN","12- Jocoaitique",2009,29,37,13,8
+830,"13- MORAZÁN","13- Jocoro",2009,38,43,73,62
+831,"13- MORAZÁN","14- Lolotiquillo",2009,20,11,28,19
+832,"13- MORAZÁN","15- Meanguera",2009,5,1,48,46
+833,"13- MORAZÁN","16- Osicala",2009,27,27,61,51
+834,"13- MORAZÁN","17- Perquín",2009,10,6,68,40
+835,"13- MORAZÁN","18- San Carlos",2009,8,7,34,27
+836,"13- MORAZÁN","19- San Fernando",2009,4,5,3,6
+837,"13- MORAZÁN","20- San Isidro",2009,8,4,22,8
+838,"13- MORAZÁN","21- San Simón",2009,27,28,102,80
+839,"13- MORAZÁN","22- Sensembra",2009,12,13,17,18
+840,"13- MORAZÁN","23- Sociedad",2009,28,22,78,75
+841,"13- MORAZÁN","24- Torola",2009,6,6,23,19
+842,"13- MORAZÁN","25- Yamabal",2009,12,6,48,32
+843,"13- MORAZÁN","26- Yoloaiquín",2009,12,21,15,11
+844,"14- L A    U N I O N","01- La Unión",2009,378,292,133,124
+845,"14- L A    U N I O N","02- Anamorós",2009,41,37,150,141
+846,"14- L A    U N I O N","03- Bolívar",2009,11,11,44,33
+847,"14- L A    U N I O N","04- Concepción de Oriente",2009,27,18,92,97
+848,"14- L A    U N I O N","05- Conchagua",2009,132,154,298,235
+849,"14- L A    U N I O N","06- El Carmen",2009,36,32,111,101
+850,"14- L A    U N I O N","07- El Sauce",2009,14,24,59,48
+851,"14- L A    U N I O N","08- Intipucá",2009,49,55,17,11
+852,"14- L A    U N I O N","09- Lislique",2009,15,9,131,139
+853,"14- L A    U N I O N","10- Meanguera del Golfo",2009,14,18,3,8
+854,"14- L A    U N I O N","11- Nueva Esparta",2009,36,25,114,93
+855,"14- L A    U N I O N","12- Pasaquina",2009,56,60,228,180
+856,"14- L A    U N I O N","13- Polorós",2009,35,26,95,60
+857,"14- L A    U N I O N","14- San Alejo",2009,100,98,118,106
+858,"14- L A    U N I O N","15- San José",2009,18,15,15,9
+859,"14- L A    U N I O N","16- Santa Rosa de Lima",2009,346,248,36,39
+860,"14- L A    U N I O N","17- Yayantique",2009,24,21,28,22
+861,"14- L A    U N I O N","18- Yucuaiquín",2009,33,32,44,42

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<title>Mapa de Densidad Nacimientos</title>
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link href='http://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="js/efectos.js"></script>
+	<script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+</head>
+<body>
+	
+	<header>
+		<h1>
+			Mapa Densidad - Nacidos Vivos <span id="annio"></span>
+		</h1>
+		<button id="dimensionar"> &gt; - Click Me - &lt; </button>
+	</header>
+
+	<section id="container">
+
+		<article id="map-container">
+			<div id="map"></div>
+		</article>
+
+		<article id="control-panel">
+			<fieldset>
+				<legend>
+					Nacimientos
+				</legend>
+				<p><input type="radio" name="nacidos" id="hrural" /><label for="hrural" checked /> Hombre / Z.Rural</label></p>
+				<p><input type="radio" name="nacidos" id="hurbano" /><label for="hurbano"> Hombre / Z.Urbana</label></p>
+				<p><input type="radio" name="nacidos" id="mrural" /><label for="mrural"> Mujer / Z.Rural</label></p>
+				<p><input type="radio" name="nacidos" id="murbano" /><label for="murbano"> Mujer / Z.Urbana</label></p>
+			</fieldset>
+			<fieldset>
+				<legend>
+					Año
+				</legend>
+				<p><input type="radio" name="year" id="2007" /><label for="2007" checked /> 2007</label></p>
+				<p><input type="radio" name="year" id="2008" /><label for="2008"> 2008</label></p>
+				<p><input type="radio" name="year" id="2009" /><label for="2009"> 2009</label></p>
+				<p><input type="radio" name="year" id="2010" /><label for="2010"> 2010</label></p>
+				<p><input type="radio" name="year" id="2011" /><label for="2011"> 2011</label></p>
+				<p><input type="radio" name="year" id="2012" /><label for="2012"> 2012</label></p>
+				<p><input type="radio" name="year" id="2013" /><label for="2013"> 2013</label></p>
+			</fieldset>
+		</article>
+
+	</section>
+
+
+	<footer>
+		
+	</footer>
+	
+	<script type="text/javascript" src= "js/main.js"></script>
+
+</body>
+</html>
